@@ -1,3 +1,14 @@
+
+
+# CRUD de Libros con React y Redux Hooks
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40105679-e55a-44dd-a7d3-52b17328ef48/deploy-status)](https://app.netlify.com/sites/crud-react-redux/deploys)
+
+REST API creado con [json-server](https://github.com/typicode/json-server).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
