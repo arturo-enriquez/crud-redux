@@ -1,0 +1,19 @@
+{
+  "libros": [
+    {
+      "id": 2,
+      "nombre": "El Arte de la Guerra",
+      "precio": 40
+    },
+    {
+      "nombre": "Armada",
+      "precio": "150",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Node, React y MongoDB",
+      "precio": "120"
+    }
+  ]
+}
